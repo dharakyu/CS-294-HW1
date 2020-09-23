@@ -3,3 +3,5 @@ genie-toolkit/
 thingtalk/
 thingtalk-units/
 genienlp/
+
+!/genie-toolkit/starter/wikidata/datadir
