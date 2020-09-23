@@ -1,7 +1,7 @@
 .idea/
-genie-toolkit/
+# genie-toolkit/
 thingtalk/
 thingtalk-units/
 genienlp/
 
-!/genie-toolkit/starter/wikidata/datadir
+# !/genie-toolkit/starter/wikidata/datadir
